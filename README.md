@@ -28,5 +28,4 @@ etc...). Besides, each unique class should also have its own properties. You sho
 justification in your report, on the proposed classes, properties and their relationships 
 stating why they are necessary.
 Appropriate data annotations and input validations should be provided in all model 
-classes. You should customize your own error messages and NOT use the default error 
-messages provided by the template.
+classes.
