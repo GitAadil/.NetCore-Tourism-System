@@ -1,0 +1,48 @@
+﻿@page
+@model Lab.Pages.Organizers.IndexModel
+
+@{
+    ViewData["Title"] = "Organizer Details";
+}
+
+    <h1>Organizer Details</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Organizer[0].OrganizerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Organizer[0].Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Organizer[0].Phone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Organizer) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrganizerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.OrganizerID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.OrganizerID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.OrganizerID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

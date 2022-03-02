@@ -1,0 +1,368 @@
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Lab.exe
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.csprojAssemblyReference.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.RazorAssemblyInfo.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.RazorAssemblyInfo.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.AssemblyInfoInputs.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.AssemblyInfo.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.TagHelpers.input.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.TagHelpers.output.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.RazorCoreGenerate.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.RazorTargetAssemblyInfo.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.RazorTargetAssemblyInfo.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\staticwebassets\Lab.StaticWebAssets.Manifest.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\staticwebassets\Lab.StaticWebAssets.xml
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.CopyComplete
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Lab.deps.json
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Lab.runtimeconfig.json
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Lab.runtimeconfig.dev.json
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Lab.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Lab.pdb
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Lab.Views.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Lab.Views.pdb
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.CoreCompileInputs.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.Views.pdb
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.dll
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.pdb
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Lab.genruntimeconfig.cache
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Registrations\Create.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Registrations\Delete.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Registrations\Details.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Registrations\Edit.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Registrations\Index.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Events\Create.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Events\Delete.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Events\Details.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Events\Edit.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Events\Index.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Organizers\Create.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Organizers\Delete.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Organizers\Details.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Organizers\Edit.cshtml.g.cs
+C:\Users\hashik\source\repos\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Organizers\Index.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\appsettings.json
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Lab.exe
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Lab.deps.json
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Lab.runtimeconfig.json
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Lab.runtimeconfig.dev.json
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Lab.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Lab.pdb
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Lab.Views.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Lab.Views.pdb
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.csprojAssemblyReference.cache
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.CoreCompileInputs.cache
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.MvcApplicationPartsAssemblyInfo.cache
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.RazorAssemblyInfo.cache
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.RazorAssemblyInfo.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.AssemblyInfoInputs.cache
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.AssemblyInfo.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.TagHelpers.input.cache
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.TagHelpers.output.cache
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.RazorCoreGenerate.cache
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Events\Create.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Events\Delete.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Events\Details.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Events\Edit.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Events\Index.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Organizers\Create.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Organizers\Delete.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Organizers\Details.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Organizers\Edit.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Organizers\Index.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Registrations\Create.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Registrations\Delete.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Registrations\Details.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Registrations\Edit.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Registrations\Index.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.RazorTargetAssemblyInfo.cache
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.RazorTargetAssemblyInfo.cs
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.Views.pdb
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.CopyComplete
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\staticwebassets\Lab.StaticWebAssets.Manifest.cache
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\staticwebassets\Lab.StaticWebAssets.xml
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.dll
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.pdb
+E:\University Study Material\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.genruntimeconfig.cache
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.AssemblyReference.cache
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.AssemblyInfoInputs.cache
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.AssemblyInfo.cs
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.RazorAssemblyInfo.cache
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.RazorAssemblyInfo.cs
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\staticwebassets\Lab.StaticWebAssets.Manifest.cache
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\staticwebassets\Lab.StaticWebAssets.xml
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab.styles.css
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.TagHelpers.input.cache
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.TagHelpers.output.cache
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.RazorCoreGenerate.cache
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.dll
+C:\Users\Aadil\My Drive\Vic Uni Study Materials\NIT3112 Advanced Web Development\Lab Assessment 3\Lab Assessment 3\Lab Assessment 3\Lab\obj\Debug\netcoreapp3.1\Lab.pdb
